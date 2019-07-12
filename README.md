@@ -1,0 +1,1 @@
+File suite designed to scrape the DPLA API for maps/images from the David Rumsey collection and download them. This also includes a fiele to convert the JPEX 2000 images into PNG files (this process is very slow!), as well as monitor data use when downloading such large images.
